@@ -1,0 +1,1 @@
+la de node_modules y .angular.. fijarse el readme local
